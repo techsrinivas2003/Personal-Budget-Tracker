@@ -8,7 +8,7 @@ The **Personal Budget Tracker** is a simple web application that helps users man
 - View a summary of the recorded transactions categorized by Food, Transportation, Entertainment, Salary, Savings, Utilities, and Housing.
 - Edit or delete any transaction directly from the summary table.
 
-![Personal Budget Tracker Screenshot](images/screenshot.png)
+![Personal Budget Tracker Screenshot](https://github.com/techsrinivas2003/Personal-Budget-Tracker/blob/main/images/Screenshot%202025-02-02%20131700.png)
 
 ## Features
 
